@@ -1,0 +1,49 @@
+Java Interview Questions:
+what is Kubernetes
+what is Cucumber
+Java 8 features 
+Lamda expression 
+Interface vs abstract class when we used
+Linkedlist vs array list
+How do u implement sort in Java
+How serialization and dserialization happens in spring boot
+Jpa 
+One to many many to one relationship 
+Hashmap and concurrent hashmap
+How to avoid circular dependency in spring
+How do you optimize sql query
+How do you know sql query is not optimized do you use any tool
+What is Java reflection 
+Input validation 
+Common spring problems 
+Mostly used patterns And real time use cases
+-------------------------------------------------------
+Cap-Geminie-questions:
+What are fictional interfaces
+How to develop micro services 
+How do you develop micro services 
+What are different design patterns used
+What is API gateway
+What is service discovery 
+What is load balancing 
+What is circuit breaker
+What is proxy
+What is rest api rest protocol
+How do you expose payload to customers 
+How do you define the top down approach in APIs 
+What is cap theorem 
+Mongdb follows what cap theorem function 
+How Java spring boot connects with mongodb
+How to do sharing in mongodb
+How to convert class to spring boot application 
+What is data lake and technologies and Apache spark cluster internal architecture 
+-----------------------------------------------------
+BOFA-inteview-Questions:
+Put and patch differenece?
+Why patch is idempotent?
+Status codes?
+Why memory leak happens?
+Disadvantages of spring boot?
+How to stop memory leak?
+What new features added in Java 11?
+Java 8 and java 11 fifferenece
