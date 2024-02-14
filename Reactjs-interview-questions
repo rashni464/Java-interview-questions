@@ -17,7 +17,7 @@ javascriot memoey leak
 why to use profiles: which will tell performance of application weather all are loading properly..
 error boundries
 redux-asynchronus call
-how to handle forms in reactjs : useref, formik, react hook form
-lazy loading
-pagination
+how to handle forms in reactjs : useref, formik- library, react hook form: 
+lazy loading: if i dnt want load all componenrs in application we create lazy loading. 
+pagination: in the ui if we have loaded all the data showing in the parts..
 
