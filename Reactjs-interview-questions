@@ -9,12 +9,12 @@ why to use ref
 why call back fuctions
 how to make back end calls
 what are constructers
-why to use only nodejs
+why to use only nodejs: single thread programming languge. it is ayncronus and fast
 react hooks
 memory leak
 javascriot memoey leak
 --------------------------------------
-why to use profiles
+why to use profiles: which will tell performance of application weather all are loading properly..
 error boundries
 redux-asynchronus call
 how to handle forms in reactjs : useref, formik, react hook form
