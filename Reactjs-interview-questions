@@ -15,7 +15,7 @@ memory leak
 javascriot memoey leak
 --------------------------------------
 why to use profiles: which will tell performance of application weather all are loading properly..
-error boundries
+error boundries: create a class by extending erro boundries  will get 2 methods by default what everr we put in that will be handled
 redux-asynchronus call
 how to handle forms in reactjs : useref, formik- library, react hook form: 
 lazy loading: if i dnt want load all componenrs in application we create lazy loading. 
